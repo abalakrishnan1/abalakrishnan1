@@ -1,4 +1,4 @@
-<style>
+<foreignObject><style>
     .wave {
     animation-name: wave-animation;  /* Name of @keyframes element below */
     animation-duration: .75s;  /* Wave speed */
@@ -20,8 +20,7 @@
     75% { transform: rotate( 12deg ) }
     100% { transform: rotate( 0deg ) }
   }
-</style>
-
+</style></foreignObject>
 <h1 align="center">Hi <span class="wave">👋</span>, I'm Advay!</h1>
 <h3 align="center">Student passionate about several areas of swe</h3>
 
