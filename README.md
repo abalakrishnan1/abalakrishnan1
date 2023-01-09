@@ -1,4 +1,4 @@
-<img src="wave.svg" width="400" height="400" alt="css-in-readme">
+<div align="center"><img src="wave.svg" width="100" height="100" alt="css-in-readme"></div>
 <h1 align="center">Hi, I'm Advay!</h1>
 <h3 align="center">Student passionate about several areas of swe</h3>
 
