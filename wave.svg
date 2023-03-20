@@ -10,7 +10,6 @@
                 animation-play-state: running;
                 transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
                 display: flex;
-                font-size: 8rem;
               }
 
               @keyframes wave-animation {
