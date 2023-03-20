@@ -4,12 +4,12 @@
            <style>
                 .wave {
                 animation-name: wave-animation;  /* Name of @keyframes element below */
-                animation-duration: .75s;  /* Wave speed */
+                animation-duration: .50s;  /* Wave speed */
                 animation-iteration-count: infinite;
                 animation-timing-function: linear;
                 animation-play-state: running;
                 transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
-                display: inline-block;
+                display: flex;
                 font-size: 8rem;
               }
 
